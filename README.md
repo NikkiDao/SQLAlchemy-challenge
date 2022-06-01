@@ -33,8 +33,8 @@ To perform an analysis of precipitation in the area, do the following:
 * Sort the DataFrame values by `date`.
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
-* 
-<img src="Images/Precipitation_Data.png" width="128"/>
+
+<img src="Images/Precipitation_Data.png" width="128" width="500" />
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -62,7 +62,7 @@ To perform an analysis of stations in the area, do the following:
 
     * Plot the results as a histogram with `bins=12`, as shown in the following image:
 
-    ![station-histogram](Images/station_histogram_temperature.png)
+    <img src="Images/station_histogram_temperature.png width="500" />
 
 * Close out your session.
 
@@ -147,8 +147,8 @@ Complete the following steps:
     * Use the average temperature as the bar height (_y_ value).
 
     * Use the peak-to-peak (TMAX-TMIN) value as the _y_ error bar (YERR).
-
-    ![temperature](Images/trip_ave_temp.png)
+   
+    <img src="Images/trip_ave_temp.png" width="500" />
 
 #### Daily Rainfall Average
 
@@ -178,7 +178,8 @@ Complete the following steps:
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals, as shown in the following image:
 
-  ![daily-normals](Images/temp_per_trip_dates.png)
+ <img src="Images/temp_per_trip_dates.png" width="500" />
+
 
 * Close out your session.
 
