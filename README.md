@@ -148,7 +148,7 @@ Complete the following steps:
 
     * Use the peak-to-peak (TMAX-TMIN) value as the _y_ error bar (YERR).
    
- <img src="Images/Trip_Avg_Temp.png" width="200" />
+ <img src="Images/Trip_Avg_Temp.png" width="100" />
 
 #### Daily Rainfall Average
 
