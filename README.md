@@ -37,6 +37,7 @@ To perform an analysis of precipitation in the area, do the following:
 ![Station_histogram_temperature](Images/station_histogram_temperature.png)
 
   <img align="center" src="sqlalchemy-challenge/sqlalchemy-challenge/Images/precipitation_data.png" />
+  ![Precipitation_Data](Precipitation.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
