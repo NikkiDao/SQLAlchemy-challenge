@@ -34,6 +34,7 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
 
+![Station_histogram_temperature](Images/station_histogram_temperature.png)
 
   <img align="center" src="sqlalchemy-challenge/sqlalchemy-challenge/Images/precipitation_data.png" />
 
