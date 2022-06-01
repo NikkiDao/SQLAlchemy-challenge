@@ -33,11 +33,8 @@ To perform an analysis of precipitation in the area, do the following:
 * Sort the DataFrame values by `date`.
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
-
-![Station_histogram_temperature](Images/station_histogram_temperature.png)
-
-  <img align="center" src="sqlalchemy-challenge/sqlalchemy-challenge/Images/precipitation_data.png" />
-  ![Precipitation_Data](Precipitation.png)
+* 
+<img src="Images/Precipitation_Data.png" width="128"/>
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
