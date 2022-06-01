@@ -34,7 +34,7 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
 
-<img src="Images/Precipitation_Data.png" width="500" />
+<img src="Images/Precipitation_Data.png" width="800" />
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -148,7 +148,7 @@ Complete the following steps:
 
     * Use the peak-to-peak (TMAX-TMIN) value as the _y_ error bar (YERR).
    
- <img src="Images/Trip_Avg_Temp.png" width="500" />
+ <img src="Images/Trip_Avg_Temp.png" width="200" />
 
 #### Daily Rainfall Average
 
@@ -178,7 +178,7 @@ Complete the following steps:
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals, as shown in the following image:
 
- <img src="Images/Temp_per_Trip_Dates.png" width="500" />
+ <img src="Images/Temp_per_Trip_Dates.png" width="800" />
 
 
 * Close out your session.
