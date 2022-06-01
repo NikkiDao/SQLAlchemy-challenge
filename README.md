@@ -34,7 +34,8 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
 
-  ![precipitation_data](sqlalchemy-challenge/Images/precipitation_data.png) <img align="center" src="sqlalchemy-challenge/Images/precipitation_data.png"
+  ![precipitation_data](sqlalchemy-challenge/Images/precipitation_data.png)
+  <img align="center" src="sqlalchemy-challenge/Images/precipitation_data.png"
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
