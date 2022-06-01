@@ -10,8 +10,6 @@
 
 4. Push the changes to GitHub or GitLab.
 
-![surfs-up.png](Images/surfs-up.png)
-
 ## Instructions
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following sections outline the steps you must take to accomplish this task.
@@ -46,7 +44,7 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
 
-  ![precipitation](Images/precipitation.png)
+  ![precipitation](Images/precipitation_data.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -74,7 +72,7 @@ To perform an analysis of stations in the area, do the following:
 
     * Plot the results as a histogram with `bins=12`, as shown in the following image:
 
-    ![station-histogram](Images/station-histogram.png)
+    ![station-histogram](Images/station_histogram_temperature.png)
 
 * Close out your session.
 
@@ -126,8 +124,6 @@ Use Flask to create your routes, as follows:
 
 The following are optional challenge queries that we recommend you attempt, but they are not required for this assignment.
 
-* Use the provided [temp_analysis_bonus_1_starter.ipynb](temp_analysis_bonus_1_starter.ipynb) and [temp_analysis_bonus_2_starter.ipynb](temp_analysis_bonus_2_starter.ipynb) starter notebooks for their respective bonus challenge.
-
 #### Temperature Analysis 1
 
 Conduct an analysis to answer the following question: Hawaii is reputed to enjoy mild weather all year round. Is there a meaningful difference between the temperatures in, for example, June and December?
@@ -162,7 +158,7 @@ Complete the following steps:
 
     * Use the peak-to-peak (TMAX-TMIN) value as the _y_ error bar (YERR).
 
-    ![temperature](Images/temperature.png)
+    ![temperature](Images/trip_ave_temp.png)
 
 #### Daily Rainfall Average
 
@@ -192,7 +188,7 @@ Complete the following steps:
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals, as shown in the following image:
 
-  ![daily-normals](Images/daily-normals.png)
+  ![daily-normals](Images/temp_per_trip_dates.png)
 
 * Close out your session.
 
