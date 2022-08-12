@@ -1,4 +1,4 @@
-# Unit 10 Homework: Surf’s Up
+# Surf’s Up
 
 ## Instructions
 
